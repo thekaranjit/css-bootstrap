@@ -1,0 +1,39 @@
+#heading {
+  font-weight: bold;
+  color: red;
+  font-size: 32px;
+  border-width: 3px;
+  border-color: blue;
+  border-style: solid;
+
+}
+
+
+p {
+  color: blue;
+  background-color: lightgrey;
+
+}
+
+body {
+  background: url(https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+li {
+list-style-type: circle;
+
+
+}
+
+#select {
+  background-color: red;
+}
+
+#icon {
+  background-color: red;
+  list-style-type: circle;
+
+  /* IDEA: list-style-image: url('./res/sqpurple.gif');  */
+  }

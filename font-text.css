@@ -1,0 +1,14 @@
+#font-text {
+  font-family: "20 Arial";
+  text-align: center;
+}
+
+#collomn {
+  font-family: "10 Tahoma";
+  font-style: italic;
+  text-align: left;
+}
+
+span{
+  font-weight: bold;
+}
